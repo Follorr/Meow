@@ -1,5 +1,3 @@
-package com.shpp.p2p.cs.aesaulenko.assignment4;
-
 import acm.graphics.*;
 import com.shpp.cs.a.graphics.WindowProgram;
 
